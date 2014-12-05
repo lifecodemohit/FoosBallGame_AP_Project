@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99" started-at="2014-11-22T17:32:54Z" finished-at="2014-11-22T17:32:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99" started-at="2014-11-22T17:32:54Z" finished-at="2014-11-22T17:32:54Z">
+      <class name="ProjectTests.FieldTest">
+        <test-method status="PASS" signature="BallSetInProperPosition()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="BallSetInProperPosition" duration-ms="28" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BallSetInProperPosition -->
+        <test-method status="PASS" signature="CheckBallxCoordinateAfterTeamAGoal()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckBallxCoordinateAfterTeamAGoal" duration-ms="2" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBallxCoordinateAfterTeamAGoal -->
+        <test-method status="PASS" signature="CheckBallxCoordinateAfterTeamBGoal()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckBallxCoordinateAfterTeamBGoal" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBallxCoordinateAfterTeamBGoal -->
+        <test-method status="PASS" signature="CheckBallyCoordinateAfterTeamAGoal()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckBallyCoordinateAfterTeamAGoal" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBallyCoordinateAfterTeamAGoal -->
+        <test-method status="PASS" signature="CheckBallyCoordinateAfterTeamBGoal()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckBallyCoordinateAfterTeamBGoal" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckBallyCoordinateAfterTeamBGoal -->
+        <test-method status="PASS" signature="CheckPlayerXCoordinateInTeamA()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckPlayerXCoordinateInTeamA" duration-ms="18" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPlayerXCoordinateInTeamA -->
+        <test-method status="PASS" signature="CheckPlayerXCoordinateInTeamB()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckPlayerXCoordinateInTeamB" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPlayerXCoordinateInTeamB -->
+        <test-method status="PASS" signature="CheckPlayerYCoordinateInTeamA()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckPlayerYCoordinateInTeamA" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPlayerYCoordinateInTeamA -->
+        <test-method status="PASS" signature="CheckPlayerYCoordinateInTeamB()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckPlayerYCoordinateInTeamB" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckPlayerYCoordinateInTeamB -->
+        <test-method status="PASS" signature="CheckValidityOfNumberOfPlayersInTeamA()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckValidityOfNumberOfPlayersInTeamA" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckValidityOfNumberOfPlayersInTeamA -->
+        <test-method status="PASS" signature="CheckValidityOfNumberOfPlayersInTeamB()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckValidityOfNumberOfPlayersInTeamB" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckValidityOfNumberOfPlayersInTeamB -->
+        <test-method status="PASS" signature="CheckValidityOfTeamAFormation()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckValidityOfTeamAFormation" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckValidityOfTeamAFormation -->
+        <test-method status="PASS" signature="CheckValidityOfTeamBFormation()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="CheckValidityOfTeamBFormation" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckValidityOfTeamBFormation -->
+        <test-method status="PASS" signature="GoalScoredByTeamA()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="GoalScoredByTeamA" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoalScoredByTeamA -->
+        <test-method status="PASS" signature="GoalScoredByTeamB()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="GoalScoredByTeamB" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoalScoredByTeamB -->
+        <test-method status="PASS" signature="TeamAFormationSetCorrectly()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TeamAFormationSetCorrectly" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamAFormationSetCorrectly -->
+        <test-method status="PASS" signature="TeamANameSetCorrectly()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TeamANameSetCorrectly" duration-ms="1" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamANameSetCorrectly -->
+        <test-method status="PASS" signature="TeamBFormationSetCorrectly()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TeamBFormationSetCorrectly" duration-ms="0" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamBFormationSetCorrectly -->
+        <test-method status="PASS" signature="TeamBNameSetCorrectly()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TeamBNameSetCorrectly" duration-ms="0" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeamBNameSetCorrectly -->
+        <test-method status="PASS" signature="TestPassingInTeamA()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TestPassingInTeamA" duration-ms="0" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPassingInTeamA -->
+        <test-method status="PASS" signature="TestPassingInTeamB()[pri:0, instance:ProjectTests.FieldTest@5b1d2887]" name="TestPassingInTeamB" duration-ms="0" started-at="2014-11-22T23:02:54Z" finished-at="2014-11-22T23:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPassingInTeamB -->
+      </class> <!-- ProjectTests.FieldTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
